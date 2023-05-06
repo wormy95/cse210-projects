@@ -53,7 +53,17 @@ class Program
             "What is your favorite food?",
             "What is your favorite book?",
             "What is your favorite movie?",
-            "What is your favorite hobby?"
+            "What is your favorite hobby?",
+            "Write about a time when you felt proud of yourself.",
+            "What is something that you have been avoiding, and why?",
+            "Describe a person who has influenced your life and how.",
+            "What is something that you would like to improve about yourself, and why?",
+            "Write about a place that holds special meaning for you.",
+            "What is something that you're looking forward to, and why?",
+            "Describe a moment when you had to make a difficult decision and what you learned from it.",
+            "Write about a time when you felt grateful for something or someone.",
+            "What is a goal that you have set for yourself, and how do you plan to achieve it?",
+            "Describe a challenge that you have overcome and what you learned from it."
         };
 
         // Select a random prompt
