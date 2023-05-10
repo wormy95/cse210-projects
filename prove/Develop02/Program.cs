@@ -12,13 +12,14 @@ class Program
 
         while (true)
         {
-            Console.WriteLine("Please select an option:");
+            Console.WriteLine("Main menu:");
             Console.WriteLine("1. Write");
             Console.WriteLine("2. Display");
             Console.WriteLine("3. Save");
             Console.WriteLine("4. Load");
             Console.WriteLine("5. Quit");
 
+            Console.Write("Which option would you like to choose? ");
             string option = Console.ReadLine();
 
             switch (option)
